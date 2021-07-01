@@ -1,0 +1,13 @@
+{
+    "id": "diolinuxplus",
+    "name": "Diolinux Plus",
+    "version": "1.0",
+    "description": "Diolinux Plus",
+    "main": "index.js",
+    "author": "Luca B. <dntftggl@pm.me>",
+    "license": "MIT",
+    "repository": "https://github.com/Kazvko/franz-recipe-diolinux-forum",
+    "config": {
+      "serviceURL": "https://plus.diolinux.com.br/"
+    }
+  }
